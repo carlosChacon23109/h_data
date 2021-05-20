@@ -1,0 +1,14 @@
+#sub-container{
+	width: 800px;
+	text-align: justify;
+	grid-column: 2;
+}
+#container {
+	display: grid;
+	grid-template-columns: repeat(3,1fr);
+	font-size: 13px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+#principal-title{
+	text-align: center;
+}
